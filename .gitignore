@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.cache/
+checkpoints/
+models/
+outputs/
+*.safetensors
+*.pt
+*.pth
+data/tokenized/
